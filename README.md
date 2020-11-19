@@ -1,4 +1,4 @@
 # Instagram_Login_Page
 Exercício - Digital Innovation One - Avanade
-Recriando a pagina inicial do Instagram
+Recriando a página inicial do Instagram
 Especialista: Gabriela Pinheiro
